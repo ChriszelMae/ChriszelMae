@@ -3,11 +3,11 @@ My Name is Chriszel Mae M. Lim
 I am currently a BSIT 4th year student at Cavite State University Bacoor Campus I am 24 years of age and I already have a son who finished his daycare journey.
 
 Knowledgeable about basic language like Hypertext Preprocessor (PHP)
-Java, HTML, CSS.
+Java, HTML, CSS and still learning from it.
 
 I already develop basic inventory system
 
-You can reach me : chriszelmaelim@gmail.com
+📩 How to reach me : chriszelmaelim@gmail.com
 <!--
 **ChriszelMae/ChriszelMae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
