@@ -1,7 +1,6 @@
 ### Hi there ! 👋
-### My Name is Chriszel Mae M. Lim 
-### I am currently a BSIT 4th year student at Cavite State University Bacoor Campus
-### I am 24 years of age and I already have a son who currently finished his daycare journey
+My Name is Chriszel Mae M. Lim 
+I am currently a BSIT 4th year student at Cavite State University Bacoor Campus I am 24 years of age and I already have a son who currently finished his daycare journey
 
 <!--
 **ChriszelMae/ChriszelMae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
