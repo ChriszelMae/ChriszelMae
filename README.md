@@ -5,10 +5,9 @@ I am currently a BSIT 4th year student at Cavite State University Bacoor Campus 
 Knowledgeable about basic language like Hypertext Preprocessor (PHP)
 Java, HTML, CSS.
 
-My work experience OJT assistant clerk at PCSO (2019)
-OJT assistant at Cavite PIAS (2023)
+I already develop basic inventory system
 
-I already develop basic inventory system of a company.
+You can reach me : chriszelmaelim@gmail.com
 <!--
 **ChriszelMae/ChriszelMae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
