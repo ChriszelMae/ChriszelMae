@@ -8,6 +8,8 @@ Java, HTML, CSS and still learning from it.
 I already develop basic inventory system
 
 📩 How to reach me : chriszelmaelim@gmail.com
+
+https://github.com/ChriszelMae
 <!--
 **ChriszelMae/ChriszelMae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
